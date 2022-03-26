@@ -1,0 +1,41 @@
+#postcard{
+    background-color: white;
+    width: 600px;
+    height: 400px;
+}
+#app{
+    height: 100vh;
+}
+#header{
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#imagen{
+    width: 75px;
+    height: 75px;
+}
+#body{
+    height: 60%;
+    display: flex;
+}
+#text{
+    width: 50%;
+}
+#input{    
+    width: 50%;
+}
+#button{
+    height: 17%;
+}
+#submit{
+    height: 45%;
+    width: 32%;
+    background-color: lightgray;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+}
